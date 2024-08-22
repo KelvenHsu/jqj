@@ -8,25 +8,19 @@
 汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
 
 
-汕头综合频道,http://183.54.209.177:9999/udp/239.77.1.130:5146
-汕头综合频道,http://183.54.209.177:9999/udp/239.253.43.45:5146
-汕头综合频道,http://61.140.124.156:8888/udp/239.253.43.45:5146
-汕头综合频道,https://stqznews.top/tv/live/stzhhd.php
+
+汕头综合频道,http://211.97.63.3:801/hls/81/index.m3u8
 
 
-汕头经济生活,http://183.54.209.177:9999/udp/239.77.1.131:5146
-汕头经济生活,http://183.54.209.177:9999/udp/239.253.43.46:5146
-汕头经济生活,http://61.140.124.156:8888/udp/239.253.43.46:5146
-汕头经济生活,https://stqznews.top/tv/live/stjjhd.php
+汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
 
 
-汕头文旅体育,http://183.54.209.177:9999/udp/239.77.1.132:5146
-汕头文旅体育,http://183.54.209.177:9999/udp/239.253.43.47:5146
-汕头文旅体育,http://113.78.253.125:8888/udp/239.253.43.47:5146
-汕头文旅体育,https://stqznews.top/tv/live/stwlhd.php
+汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
 
 
-凤凰中文频道,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+
+
 
 
 
@@ -51,6 +45,13 @@ CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
+CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
+CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
+CGTN俄语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+CGTN法语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
+CGTN西语,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
+CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
+
 
 ﻿👍IPV6卫视,#genre#
 湖南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
@@ -511,11 +512,10 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
 
 ❤️晴天港澳,#genre#
-凤凰中文频道,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 
-凤凰资讯频道,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-
-香港凤凰频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 文旅香港频道,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
