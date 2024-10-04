@@ -18,10 +18,13 @@
 汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
 
 
-凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文频道,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 
+CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 
+CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 
+CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 
 
 👍IPV6央视,#genre#
@@ -511,7 +514,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
 
 
-❤️晴天港澳,#genre#
+❤️港澳频道,#genre#
 凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -572,7 +575,7 @@ now星影频道,http://221.1.217.6:8191/HK/nowxingying/hls.m3u8
 8K北京纪实台,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 
-❤️晴天台湾,#genre#
+❤️台湾频道,#genre#
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 tvbs新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
@@ -583,7 +586,7 @@ tvbs新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 
-❤️晴天国外,#genre#
+❤️国外频道,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 4k频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
